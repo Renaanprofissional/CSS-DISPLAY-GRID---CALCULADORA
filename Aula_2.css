@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    display: grid; 
+
+
+    
+}
+
+header {
+    background-color: #345345;
+    height: 100%;
+    width: 100%;
+    
+}
+aside {
+    background-color: #95a932;
+    height: 100%;
+    width: 100%;
+
+    
+}
+
+main {
+    background-color: #8c0dab;
+    height: 100%;
+    width: 100%;
+    
+}
+
+footer {
+    background-color: #3007c6;
+    height: 100%;
+    width: 100%;
+
+}
